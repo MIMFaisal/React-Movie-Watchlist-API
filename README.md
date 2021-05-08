@@ -1,1 +1,1 @@
-# React-Movie-API
+# React-Movie-Watchlist-API
